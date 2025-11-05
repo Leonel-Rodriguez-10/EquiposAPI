@@ -1,0 +1,20 @@
+# Repositorios y editor
+.git
+.gitignore
+.idea
+.vscode
+*.iml
+
+# Build local
+target
+logs
+*.log
+
+# Wrapper y scripts que no usaremos en la imagen
+.mvn
+mvnw
+mvnw.cmd
+
+# Archivos temporales y del sistema
+.DS_Store
+Thumbs.db
