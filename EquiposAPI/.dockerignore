@@ -1,0 +1,17 @@
+# Artefactos locales
+target/
+*.log
+logs/
+
+# IDE
+.idea/
+*.iml
+
+# Varios
+**/.DS_Store
+**/Thumbs.db
+
+# Git
+.git/
+.gitignore
+  
